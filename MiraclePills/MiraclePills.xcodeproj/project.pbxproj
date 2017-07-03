@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					FCFE44271ED7BAEC00649A23 = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = 5ZR62RK7QJ;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 5ZR62RK7QJ;
 				INFOPLIST_FILE = MiraclePills/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.erikolson.MiraclePills;
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 5ZR62RK7QJ;
 				INFOPLIST_FILE = MiraclePills/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.erikolson.MiraclePills;
